@@ -1,0 +1,14 @@
+@import '_variables.scss';
+@import '_utils.scss';
+@import '_navbar.scss';
+
+// Components
+@import '_jumbotron.scss';
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #fff !important;
+    font-family: 'Comfortaa', sans-serif;
+}
